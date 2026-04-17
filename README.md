@@ -142,22 +142,8 @@ This copies the latest plugin files to your local folder. Figma automatically pi
 
 ---
 
-## What does this do?
 
-Type something like *"Make a login screen with a blue button"* and the AI will actually create the components and layers in your Figma file — not just describe how to do it.
 
-The plugin exposes **90 MCP tools** across 5 phases:
-
-| Phase | Tools | Examples |
-|---|---|---|
-| **Visual Intelligence** | 7 | Screen cloning, visual audit, accessibility audit, sketch-to-design |
-| **Design System Accuracy** | 6 | Intent translation, layout intelligence, variant expansion, linting |
-| **Generation & Scaffolding** | 14 | Page architect, swarm build, prototype wiring, composition builder |
-| **Sync & Bidirectionality** | 9 | Token export (16 formats), component code gen, handoff specs |
-| **Governance & Health** | 15 | Health reports, token docs, design system scaffolding, DTCG validation |
-| **Node Operations** | 38 | Create, read, update, delete nodes, variables, styles, components |
-
----
 
 ## Using the chat
 
